@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2018-06-05 20:37:00 Z
+date: 2018-06-05 21:37:00 +01:00
 ---
 
 Just testing out Siteleaf CMS!
