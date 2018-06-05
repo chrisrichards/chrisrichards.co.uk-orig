@@ -8,7 +8,11 @@ Just testing out Siteleaf CMS!
 <script src="https://unpkg.com/vue"></script>
 
 <div id="app">
-  <p>{{ message }}</p>
+  <p>
+    {% raw %}
+      {{ message }}
+    {% endraw %}
+  </p>
 </div>
 
 <script>
